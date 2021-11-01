@@ -13,7 +13,7 @@ result = float(num1) + float(num2)
 print(result)
 """
 
-"""Lists
+"""Lists uses []
 friends = ["Jason", 44, "Heather", 44, "Mikey", 16, "Dakota", 9]
 #friends[3] = 45
 print(friends)
@@ -21,7 +21,7 @@ print(friends[0:2])"""
 
 """"#List functions
 lucky_nums = [3, 6, 7, 9, 44, 100]
-friends = ["Jason", 44, "Heather", 44, "Mikey", "Mikey", 16, "Dakota", 9]
+friends = ["Jason", 44, "Heather", 44, "Mikey", 16, "Dakota", 9]
 #friends.extend(lucky_nums)
 #friends.append("Joey")
 #friends.insert(8, "KK")
@@ -37,5 +37,9 @@ friends2 = friends.copy()
 print(lucky_nums)
 print(friends)"""
 
-#Tuples start here
+"""Tuples start here. Tuples can not be changed===immutable. Tuples use ()
+coordinates = [(4, 44), (1, 2), (3, 4), (5, 6)]
+print(coordinates[2])"""
 
+
+"""Functions"""
