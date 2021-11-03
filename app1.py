@@ -42,4 +42,10 @@ coordinates = [(4, 44), (1, 2), (3, 4), (5, 6)]
 print(coordinates[2])"""
 
 
-"""Functions"""
+"""Functions
+def say_hi(name, age): #or sayhi()
+    print("You da user learning code! " + name + ", you are " + str(age)) #or age and use str in call function
+print("Top")
+say_hi("jason", 44)
+say_hi("walker", 45)
+print("Bottom")"""
