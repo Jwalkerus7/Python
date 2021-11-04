@@ -1,5 +1,5 @@
 # Python
-Learning Pythin from Freecodecamp.
+Learning Python from Freecodecamp.
 Starting my journey to become a Python developer.
 In theses and coming lessons i will be learning the basics of Python as a 
 beginner.
