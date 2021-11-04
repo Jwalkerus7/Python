@@ -49,3 +49,10 @@ print("Top")
 say_hi("jason", 44)
 say_hi("walker", 45)
 print("Bottom")"""
+
+"""Return Statement
+def cube(num):
+    return num*num*num
+print(cube(44))"""
+
+"""If statements"""
