@@ -55,4 +55,31 @@ def cube(num):
     return num*num*num
 print(cube(44))"""
 
-"""If statements"""
+"""If statements
+I wake up 
+if i am hungry
+I eat breakfast
+I leave my house
+if it's cloudy
+    I bring an umbrella
+otherwise
+    I bring sunglasses 
+I'm at a restaurant
+if I want meat
+        I order a steak
+otherwise if i want pasta
+    I order spaghetti & meatballs
+otherwise
+    I order a salad.
+is_male = True #False #can swith between the 2 to see differences of true and false
+is_tall = True #False
+if is_male or is_tall: #and
+    print("Male, tall or both")
+elif is_male and not(is_tall):
+    print("Short male")
+elif not(is_male) and is_male:
+    print("Short male")
+else:
+    print("Not male nor tall")"""
+
+"""If statements & comparisons"""
