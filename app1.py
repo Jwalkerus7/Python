@@ -82,4 +82,30 @@ elif not(is_male) and is_male:
 else:
     print("Not male nor tall")"""
 
-"""If statements & comparisons"""
+"""If statements & comparisons #ie: also "dog" == "dog" "dog" != "cat"
+def max_num(num1, num2, num3):
+    if num1 >=(((== != > < <= >= different operators for different comparisions))) num2 and num1 >= num3:
+        return num1
+    elif num2 >= num1 and num2 >= num3:
+        return num2
+    else:
+        return num3
+print(max_num(3, 44, 5))"""
+
+"""Building a better Calculator
+num1 = float(input("Enter first num: "))
+op = input("Enter operator ")
+num2 = float(input("Enter first num: "))
+if op == "+":
+    print(num1 + num2)
+elif op == "-":
+    print(num1 - num2)
+elif op == "*":
+    print(num1 * num2)
+elif op == "/":
+    print(num1 / num2)
+else:
+    print("Invalid operator")"""
+
+
+
