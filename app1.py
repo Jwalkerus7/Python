@@ -107,5 +107,23 @@ elif op == "/":
 else:
     print("Invalid operator")"""
 
-
+"""Dictionaries
+Can use numbers as the key (((or 0: "January")))
+monthConversions = {
+    "Jan": "January", 
+    "Feb": "February",
+    "Mar": "March",
+    "Apr": "April",
+    "May": "May",
+    "Jun": "June",
+    "Jul": "July",
+    "Aug": "August",
+    "Sep": "September",
+    "Oct": "October",
+    "Nov": "November",
+    "Dec": "December"
+}
+print(monthConversions["Feb"])
+print(monthConversions.get("Feb"))
+print(monthConversions.get("Luv", "Not a valid key"))"""
 
