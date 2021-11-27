@@ -127,3 +127,10 @@ print(monthConversions["Feb"])
 print(monthConversions.get("Feb"))
 print(monthConversions.get("Luv", "Not a valid key"))"""
 
+
+"""While Loop
+j = 1
+while j <= 44:
+    print(j)
+    j += 1 #<--shorthand #or j = j + 1
+print("End of Loop")"""
