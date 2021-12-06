@@ -153,3 +153,36 @@ if out_of_guesses:
     print("Out of guesses")
 else:
     print("YOu guessed correct!")"""
+
+"""For Loop
+people_i_love = ["God", "Family", "Code"]
+for pil in people_i_love:
+    print(pil)
+
+
+for index in range(3):
+    print(index)
+
+
+for index in range(5, 11):
+    print(index)
+
+
+people_i_love = ["God", "Family", "Code"]
+for index in range(len(people_i_love)):
+    print(people_i_love[index])
+
+
+for index in range(len(people_i_love)):
+    print(index)
+
+
+for index in range(len(people_i_love)):
+    print(index)
+
+for index in range(7):
+    if index == 0:
+        print("7th Iteration")
+    else:
+        print("Not the first Iteration")"""
+
