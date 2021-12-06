@@ -186,3 +186,15 @@ for index in range(7):
     else:
         print("Not the first Iteration")"""
 
+
+"""Exponent Function
+#print(2**3)
+
+def raise_up_num(base_num, pow_num):
+    result = 1
+    for index in range(pow_num):
+        result = result * base_num
+    return result
+
+print(raise_up_num(3, 2))"""
+
