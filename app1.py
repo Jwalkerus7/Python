@@ -198,3 +198,34 @@ def raise_up_num(base_num, pow_num):
 
 print(raise_up_num(3, 2))"""
 
+"""2D Lists & Nested Loops
+number_grid = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [0]
+]
+
+print(number_grid[2][1])
+
+for row in number_grid:
+    for col in row:
+        print(col)"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
