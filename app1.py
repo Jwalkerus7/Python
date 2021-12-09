@@ -1,3 +1,11 @@
+"""After finishing this tutorial.
+create a .py folder for each lesson,
+put code in the .py
+and commit each folder"""
+
+
+
+
 """MadLib game
 color = input("Enter a color: ")
 plural_noun = input("Enter a Plural Noun: ")
