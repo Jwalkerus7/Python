@@ -212,6 +212,28 @@ for row in number_grid:
     for col in row:
         print(col)"""
 
+"""Build a translator # j language
+def translate(phrase):
+    translation = ""
+    for letter in phrase:
+        if letter.lower() in "aeiou":
+            if letter.isupper():
+                translation = translation + "J"
+            else:
+                translation = translation + "j"
+        else:
+            translation = translation + letter
+    return translation
+print(translate(input("Enter a phrase: ")))"""
+
+"""Comments
+# Comments are cool
+# This prints out a string
+print("Comments are fun!")"""
+
+"""Try Except"""
+
+
 
 
 
