@@ -239,9 +239,32 @@ print(translate(input("Enter a phrase: ")))"""
 # This prints out a string
 print("Comments are fun!")"""
 
-"""Try Except"""
+"""Try / Except
+# value = 10/0 # can not divide by zero in python
+try:
+    # value = 10 / 0
+    number = int(input("Enter a number: "))
+    print(number)
+#except ZeroDivisionError:
+#    print("Divided by zero") can do either way for except
+except ZeroDivisionError as err:
+    print(err)
+except ValueError:
+    print("Invalid input")"""
 
+"""Reading Files
+emp_file = open("employees.txt", "r") # r here plus .readable is true but w here would be false and not readable
 
+#print(emp_file.readable())
+#print(emp_file.read())
+#print(emp_file.readline())
+#print(emp_file.readline())
+#print(emp_file.readline())
+#print(emp_file.readlines())
+#print(emp_file.readlines()[0])
+for emp in emp_file.readlines():
+    print(emp)
+emp_file.close()"""
 
 
 
