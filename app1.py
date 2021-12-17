@@ -267,6 +267,16 @@ for emp in emp_file.readlines():
 emp_file.close()"""
 
 
+"""Writing Files-writing and appending to files a=append w=write over ALL of the existing file
+#emp_file = open("employees.txt", "a")
+#emp_file = open("employees1.txt", "w")    #create a new file.
+emp_file = open("index.html", "w") #create a new webpage
+emp_file.write("<p>This is HTML</p>") #putting a paragraph in the created index.html
+#print(emp_file.read())
+#emp_file.write("\nZee - Adoption")
+emp_file.close()"""
+
+
 
 
 
