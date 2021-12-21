@@ -272,4 +272,4 @@ emp_file.close()"""
 """Modules and Pip. file useful_tools.py 
 import useful_tools
 print(useful_tools.roll_dice(20))
-can use pip install or unistall python docx in terminal"""
+can use pip install or uninstall python docx in terminal"""
