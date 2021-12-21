@@ -3,9 +3,6 @@ create a .py folder for each lesson,
 put code in the .py
 and commit each folder"""
 
-
-
-
 """MadLib game
 color = input("Enter a color: ")
 plural_noun = input("Enter a Plural Noun: ")
@@ -48,7 +45,6 @@ print(friends)"""
 """Tuples start here. Tuples can not be changed===immutable. Tuples use ()
 coordinates = [(4, 44), (1, 2), (3, 4), (5, 6)]
 print(coordinates[2])"""
-
 
 """Functions
 def say_hi(name, age): #or sayhi()
@@ -135,7 +131,6 @@ print(monthConversions["Feb"])
 print(monthConversions.get("Feb"))
 print(monthConversions.get("Luv", "Not a valid key"))"""
 
-
 """While Loop
 j = 1
 while j <= 44:
@@ -193,7 +188,6 @@ for index in range(7):
         print("7th Iteration")
     else:
         print("Not the first Iteration")"""
-
 
 """Exponent Function
 #print(2**3)
@@ -266,7 +260,6 @@ for emp in emp_file.readlines():
     print(emp)
 emp_file.close()"""
 
-
 """Writing Files-writing and appending to files a=append w=write over ALL of the existing file
 #emp_file = open("employees.txt", "a")
 #emp_file = open("employees1.txt", "w")    #create a new file.
@@ -276,19 +269,7 @@ emp_file.write("<p>This is HTML</p>") #putting a paragraph in the created index.
 #emp_file.write("\nZee - Adoption")
 emp_file.close()"""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"""Modules and Pip. file useful_tools.py 
+import useful_tools
+print(useful_tools.roll_dice(20))
+can use pip install or unistall python docx in terminal"""
