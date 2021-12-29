@@ -274,4 +274,9 @@ import useful_tools
 print(useful_tools.roll_dice(20))
 can use pip install or uninstall python docx in terminal"""
 
-"""Classes & Objects"""
+"""Classes & Objects//// goes with Student.py file
+from Student import Student
+student1 = Student("jason", "Coding", 2.3, True)
+student2 = Student("jason", "Coding", 3.5, False)
+print(student1.name)
+print(student2.gpa)"""
