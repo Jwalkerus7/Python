@@ -1,4 +1,4 @@
-"""class Student:
+"""class Student: //// goes with Classes and Objects lesson ////
     def __init__(self, name, major, gpa, is_on_probation):
         self.name = name
         self.major = major
