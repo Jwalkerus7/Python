@@ -301,3 +301,9 @@ def run_test(questions):
             score += 1
     print("You got  " + str(score) + "/" + str(len(questions)) + "Correct")
 run_test(questions)"""
+
+"""Object Functions goes with 2nd student class in Student.py
+from Student import Student
+student1 = Student("OScar", "Account", 3.1)
+student2 = Student("Phyllis", "Business", 3.8)
+print(student1.on_honor_roll())"""
