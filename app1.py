@@ -281,7 +281,7 @@ student2 = Student("jason", "Coding", 3.5, False)
 print(student1.name)
 print(student2.gpa)"""
 
-"""Building a Multiple Choice Quiz
+"""Building a Multiple Choice Quiz goes with Question.py
 from Question import Question
 question_prompts = [
     "What colors are Apples?\n(a) Red/Green\n(b) Purple\n(c) Orange\n\n",
