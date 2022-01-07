@@ -307,3 +307,17 @@ from Student import Student
 student1 = Student("OScar", "Account", 3.1)
 student2 = Student("Phyllis", "Business", 3.8)
 print(student1.on_honor_roll())"""
+
+"""Inheritance goes with Chef.py & ChineseChef.py
+from Chef import Chef
+from ChineseChef import ChineseChef
+myChef = Chef()
+myChef.make_chicken()
+myChef.make_special_dish()
+myChef.make_salad()
+
+myChineseChef = ChineseChef()
+myChineseChef.make_chicken()
+myChineseChef.make_special_dish()
+myChineseChef.make_salad()
+myChineseChef.make_fried_rice()"""
