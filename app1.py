@@ -321,3 +321,7 @@ myChineseChef.make_chicken()
 myChineseChef.make_special_dish()
 myChineseChef.make_salad()
 myChineseChef.make_fried_rice()"""
+
+"""Python Interpreter
+Use the interpreter via cmd line or another name for cmd line is terminal
+               THE END"""
